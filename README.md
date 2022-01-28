@@ -1,4 +1,4 @@
-# vesson-31-vue
+# Boss
 
 ## Project setup
 ```
